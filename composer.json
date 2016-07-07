@@ -1,0 +1,25 @@
+{
+  "name": "n1c/formbs",
+  "description": "Form Builders Bootstrap",
+  "license": "MIT",
+  "homepage": "",
+  "support": {
+    "issues": "https://github.com/n1c/formbs/issues",
+    "source": "https://github.com/n1c/formbs"
+  },
+  "authors": [
+    {
+      "name": "Nic Malan",
+      "email": "nicmalan@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9",
+    "laravelcollective/html": "5.2.*",
+  },
+  "autoload": {
+    "psr-4": {
+      "n1c\\FormBS\\": "src/"
+    }
+  }
+}
