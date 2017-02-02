@@ -15,7 +15,7 @@
   ],
   "require": {
     "php": ">=5.5.9",
-    "laravelcollective/html": "5.2.*|5.3.*"
+    "laravelcollective/html": "5.*"
   },
   "autoload": {
     "psr-4": {
